@@ -13,7 +13,6 @@
 .. |grafana_url| replace:: https://api.dl.acrc.bris.ac.uk:3000
 .. |grafana_username| replace:: ``grafana_local_admin``
 .. |horizon_access| replace:: via the university network (e.g. through the jump host)
-.. |horizon_access| replace:: via the university network (e.g. through the jump host)
 .. |horizon_theme_clone_url| replace:: <No custom theme in use>
 .. |horizon_theme_name| replace:: Default
 .. |horizon_url| replace:: https://api.dl.acrc.bris.ac.uk
