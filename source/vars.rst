@@ -29,6 +29,7 @@
 .. |kolla_passwords| replace:: https://github.com/ACRC/dl-kayobe-config/blob/bristol/yoga/etc/kayobe/kolla/passwords.yml
 .. |monitoring_host| replace:: ``controller1``
 .. |network_name| replace:: demo-vxlan
+.. |num_ci_runners| replace:: 3
 .. |nova_rbd_pool| replace:: vms
 .. |project_config_source_url| replace:: https://github.com/ACRC/openstack-config.git
 .. |project_config| replace:: openstack-config

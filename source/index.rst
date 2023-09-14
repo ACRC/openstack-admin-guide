@@ -30,6 +30,7 @@ Contents
    gpus_in_openstack
    baremetal_management
    rally_and_tempest
+   ci_cd_workflows
 
 Indices and search
 ==================
